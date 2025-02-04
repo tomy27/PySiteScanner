@@ -1,4 +1,4 @@
-# PySiteScanner: A Simple Network and Directory Scanner
+# PySiteScanner: A Simple Port and Directory Scanner
 
 Python Site Scanner is a lightweight, async Python script that combines **port scanning (like Nmap)** and **directory brute-forcing (like Dirb)** into a single command-line tool. It allows you to scan open ports on a target and discover hidden directories or paths on a web server.
 
